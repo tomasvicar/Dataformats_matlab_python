@@ -1,2 +1,2 @@
 # Dataformats_matlab_python
-Examles how to read various dataformats such as json, csv, 3d tiff.
+Examles how to read various dataformats - json,, 3d tiff.
