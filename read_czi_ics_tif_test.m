@@ -32,7 +32,7 @@ sum(tmp(:))
 
 
 
-fname = 'G:\Sdílené disky\martin_data\NHDF\NHDF_8h PI\IR 0,5Gy_8h PI\rawdata\0003\01.ics';
+fname = 'test.tif';
 B = ReadImage6D(fname);
 
 
