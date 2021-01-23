@@ -20,7 +20,8 @@ for c in reader.ranges['c']:
                 break
 
 
-
+img = reader.get_image('Compensated phase', 0, 0, 0)
+img_info = reader.get_image_info(c, t, p, z)
 
 # from cdflib_custom.cdfread import CDF
 
