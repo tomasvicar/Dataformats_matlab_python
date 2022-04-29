@@ -7,6 +7,8 @@ import numpy as np
 
 file_name = 'out.avi'
 
+
+
 frames = []
 
 with imageio.get_reader(file_name) as f:
