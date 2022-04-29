@@ -1,0 +1,6 @@
+numpy
+matplotlib
+spyder
+ffmpeg-python
+imageio-ffmpeg
+imageio
