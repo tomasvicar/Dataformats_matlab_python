@@ -1,0 +1,24 @@
+name: mamba_env
+channels:
+  - conda-forge
+dependencies:
+  - spyder
+  - pip
+  - numpy
+  - matplotlib
+  - scikit-image
+  - pandas
+  - seaborn
+  - statsmodels
+  - openpyxl
+  - scikit-learn
+  - tifffile
+  - opencv
+  - aicsimageio[all]
+  - bioformats_jar
+  - pip:
+    - bayesian-optimization
+    - aicspylibczi>=3.1.1
+    - fsspec>=2022.8.0
+    - readlif>=0.6.4
+    
